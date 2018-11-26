@@ -2,5 +2,6 @@
 using namespace std;
 void main()
 {
-	cout << "test fg d" << endl;
+	cout << "test computer" << endl;
+	cout << "test laptop" << endl;
 }
