@@ -2,5 +2,5 @@
 using namespace std;
 void main()
 {
-	cout << "test" << endl;
+	cout << "test fg d" << endl;
 }
