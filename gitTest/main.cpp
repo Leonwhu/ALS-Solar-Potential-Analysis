@@ -4,4 +4,5 @@ void main()
 {
 	cout << "test computer" << endl;
 	cout << "test laptop" << endl;
+	cout << "test computer" << endl;
 }
